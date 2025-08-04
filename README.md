@@ -11,8 +11,10 @@
         <li>
             <strong>Include Key Sections:</strong>
             <ul>
-                <li><strong>Overview:</strong> Briefly describe the database technology (e.g., SQL Server, MySQL, PostgreSQL) and its purpose in your project.</li>
-                <li><strong>Prerequisites:</strong> List requirements such as database server access, credentials, and necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
+                <li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its purpose in my project is to i)Create Azure SQL Database 
+                 ii)Enable Transparent Data Encryption(TDE)
+                 iii)Use Azure backups (5GB) and manual snapshots for site recovery.</li>
+                <li><strong>Requirements:</strong> Requirements are database server access, credentials, and necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
                 <li><strong>Database Creation Steps:</strong> Provide step-by-step instructions to create the database. For example:
                     <pre>
 # Example for SQL Server

@@ -3,15 +3,7 @@
  </p>
     <ol>
         <li>
-            <strong>Create a Documentation File:</strong>
-            <ul>
-                <li>Add a new file named <code>DATABASE_SETUP.md</code> or <code>docs/database-setup.md</code> in your repository.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Include Key Sections:</strong>
-            <ul>
-                <li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its purpose in my project is to i)Create Azure SQL Database 
+             <li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its purpose in my project is to i)Create Azure SQL Database 
                  ii)Enable Transparent Data Encryption(TDE)
                  iii)Use Azure backups (5GB) and manual snapshots for site recovery.</li>
                 <li><strong>Requirements:</strong> Requirements are database server access, credentials, and necessary tools (e.g., Azure CLI, SQL Management Studio).</li>

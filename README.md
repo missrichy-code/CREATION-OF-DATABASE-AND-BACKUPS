@@ -38,7 +38,7 @@
 
  # Example for SQL Server
 CREATE DATABASE MyDatabase;
-                    </pre>
+                    </pre> 
                 </li>
                 <li><strong>Backup Steps:</strong> Explain how to back up the database. For example:
                     <pre>

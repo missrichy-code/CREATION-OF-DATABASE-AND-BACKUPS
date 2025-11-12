@@ -33,11 +33,7 @@
                       <img width="691" height="389" alt="db last" src="https://github.com/user-attachments/assets/660ed0f9-123a-49be-8038-3bd73a0b8178" />
                       
 
-
-
-
- # Example for SQL Server
-CREATE DATABASE MyDatabase;
+Azure Backup is a cloud-based service that helps you back up or protect and also restore your data in Microsoft's cloud. It is part of Azure recovery suite. ;
                     </pre> 
                 </li>
                 <li><strong>Backup Steps:</strong> Explain how to back up the database. For example:

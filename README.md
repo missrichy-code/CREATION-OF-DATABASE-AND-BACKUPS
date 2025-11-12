@@ -37,8 +37,8 @@
 
 
 
-Azure Backup is a cloud-based service that helps you back up or protect and also restore your data in Microsoft's cloud. It is part of Azure recovery suite. ;
-                    </pre> We can use it to back up
+
+  </pre> Azure Backup is a cloud-based service that helps you back up or protect and also restore your data in Microsoft's cloud. It is part of Azure recovery suite.  We can use it to back up
                     On-premises servers and files
                     Azure Virtual Machine
                     SQL database (on Azure VMs or managed instances)

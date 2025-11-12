@@ -39,11 +39,11 @@
 
 
   </pre> Azure Backup is a cloud-based service that helps you back up or protect and also restore your data in Microsoft's cloud. It is part of Azure recovery suite.  We can use it to back up
-                    On-premises servers and files
-                    Azure Virtual Machine
-                    SQL database (on Azure VMs or managed instances)
-                    Azure file share 
-                    Application and workloads
+                    On-premises servers and files,
+                    Azure Virtual Machine,
+                    SQL database (on Azure VMs or managed instances),
+                    Azure file share, 
+                    Application and workloads.
                 </li> General requirements include Azure Subscription, Recovery Service Vault, Storage type, Network Access, Encryption Key etc
                 <li><strong>Backup Steps:</strong>
                     <pre> Go to Backup Vault and then CREATE

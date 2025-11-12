@@ -1,6 +1,8 @@
 # CREATION OF DATABASE AND BACKUPS<!DOCTYPE html>
 
-<li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its purpose in my project is to i)Create Azure SQL Database 
+<li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its    
+                PURPOSE IN MY PROJECT IS
+                 i)Create Azure SQL Database 
                  ii)Enable Transparent Data Encryption(TDE)
                  iii)Use Azure backups (5GB) and manual snapshots for site recovery.</li>
                 <li><strong>Requirements:</strong> Requirements are database server access, credentials, and other necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
@@ -33,11 +35,18 @@
                       <img width="691" height="389" alt="db last" src="https://github.com/user-attachments/assets/660ed0f9-123a-49be-8038-3bd73a0b8178" />
                       
 
+
+
 Azure Backup is a cloud-based service that helps you back up or protect and also restore your data in Microsoft's cloud. It is part of Azure recovery suite. ;
-                    </pre> 
-                </li>
-                <li><strong>Backup Steps:</strong> Explain how to back up the database. For example:
-                    <pre>
+                    </pre> We can use it to back up
+                    On-premises servers and files
+                    Azure Virtual Machine
+                    SQL database (on Azure VMs or managed instances)
+                    Azure file share 
+                    Application and workloads
+                </li> General requirements include Azure Subscription, Recovery Service Vault, Storage type, Network Access, Encryption Key etc
+                <li><strong>Backup Steps:</strong>
+                    <pre> Go to Backup Vault and then CREATE
 # Example for SQL Server
 BACKUP DATABASE MyDatabase TO DISK = 'D:\Backups\MyDatabase.bak';
                     </pre>

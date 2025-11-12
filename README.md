@@ -5,7 +5,7 @@
                  iii)Use Azure backups (5GB) and manual snapshots for site recovery.</li>
                 <li><strong>Requirements:</strong> Requirements are database server access, credentials, and other necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
                 <li><strong>Database Creation Steps:</strong> 
-                    <pre> Create an Azure SQL account, then give the database a name
+                    <pre>    Create an Azure SQL account, then give the database a name
                       <img width="839" height="326" alt="db2" src="https://github.com/user-attachments/assets/a990f3a1-b8c3-4167-8ced-ee5f1b217075" />
                       Select Microsoft entra only
                       <img width="700" height="377" alt="db3" src="https://github.com/user-attachments/assets/c7249853-d3b5-415a-a7bf-fd43b01d3df0" />

@@ -67,15 +67,21 @@
                     Select next and select the backup frequency you desire either daily or weekly
                     Edit your Time and Time zone 
                     Set retention settings (vaulted backup)
-                    Edit it to 7days or optional days (set retention date as long as company will need it)
-                    Then create
+                    Edit it to 7days or optional days (set retention date as long as company will need it)                    Then create
                     <img width="922" height="383" alt="backup7" src="https://github.com/user-attachments/assets/32b340eb-ad4e-466b-8bfc-7e7cc5143592" />
                     Next Data source (edit) choose the storage account you want to backup
                     <img width="879" height="410" alt="backup8" src="https://github.com/user-attachments/assets/f4619da3-ea81-465d-876a-09f43b2ed4ee" />
                     </pre>
                 </li>
-                <li><strong>Troubleshooting:</strong> Add common issues and solutions.</li>
-                <li><strong>References:</strong> Link to official documentation for your database technology.</li>
+                <li><strong>Troubleshooting:</strong> .</li>
+                Common issues includes
+                1)Insufficient storage space- Ensure you check availability of disc space using OS tools
+                2)Downtime- Use hot backup tools or non blocking options also schedule backups during low traffic hours 
+                3)Corrupted backup files- Always verify backups after creation also avoid interruption during backup(ensure stable network and power)
+                4)Encryption and Security issues- Backups stored without encryption can expose sensitive data so encrypt backups at rest ans also secure backup transfers
+                5)Failed schedule backups- Log backup results and send alert on failure also regularly review task scheduler log
+            
+  <li><strong>References:</strong> Link to official documentation for your database technology.</li>
             </ul>
         </li>
         <li>

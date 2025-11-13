@@ -47,6 +47,38 @@
                 </li> General requirements include Azure Subscription, Recovery Service Vault, Storage type, Network Access, Encryption Key etc
                 <li><strong>Backup Steps:</strong>
                     <pre> Go to Backup Vault and then CREATE
+                    Input your Resource group
+                    Backup Vault name 
+                    Select Locally reductant storage for your Backup Storage
+                    <img width="572" height="328" alt="backup1" src="https://github.com/user-attachments/assets/48f498c4-50d1-4a61-99b5-5495570ea9a7" />
+                    Review and create
+                    <img width="545" height="371" alt="backup2" src="https://github.com/user-attachments/assets/6e3daf47-d27e-4f71-96b7-05b43c038550" />
+                    Then go to your resourse 
+                    Add backup
+                    Configure the Backup
+                    Database type- Azure Blobs 
+                    Vault-input a name
+                    <img width="604" height="393" alt="backup4" src="https://github.com/user-attachments/assets/b1f997db-a00e-4eb3-b239-fd473a3941eb" />
+                    Backup policy- Create new
+                    <img width="604" height="379" alt="backup5" src="https://github.com/user-attachments/assets/f5600647-b875-4583-abd8-5412f8896288" />
+                    Edit Retention
+                    Specify the duration you want and also specify operational backup
+                    <img width="933" height="400" alt="backup6" src="https://github.com/user-attachments/assets/bca2cf03-712c-4185-8031-a3dc1c7f5bc5" />
+                    Select next and select the backup frequency you desire either daily or weekly
+                    Edit your Time and Time zone 
+                    Set retention settings (vaulted backup)
+                    Edit it to 7days or optional days (set retention date as long as company will need it)
+                    Then create
+                    <img width="922" height="383" alt="backup7" src="https://github.com/user-attachments/assets/32b340eb-ad4e-466b-8bfc-7e7cc5143592" />
+                    Next Data source (edit) choose the storage account you want to backup
+                    
+
+
+
+
+
+                    
+
 # Example for SQL Server
 BACKUP DATABASE MyDatabase TO DISK = 'D:\Backups\MyDatabase.bak';
                     </pre>

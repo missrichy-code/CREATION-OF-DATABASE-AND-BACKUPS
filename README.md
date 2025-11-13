@@ -75,14 +75,12 @@
                 </li>
                 <li><strong>Troubleshooting:</strong> .</li>
                 Common issues includes,
-                1. Insufficient storage space- Ensure you check availability of disc space using OS tools
-                2. Downtime- Use hot backup tools or non blocking options also schedule backups during low traffic hours 
+                1.  Insufficient storage space- Ensure you check availability of disc space using OS tools
+                2.  Downtime- Use hot backup tools or non blocking options also schedule backups during low traffic hours 
                 3. Corrupted backup files- Always verify backups after creation also avoid interruption during backup(ensure stable network and power)
                 4. Encryption and Security issues- Backups stored without encryption can expose sensitive data so encrypt backups at rest ans also secure backup transfers
                 5. Failed schedule backups- Log backup results and send alert on failure also regularly review task scheduler log
-            1. include
-2. change
-3. boot
+           
 
   <li><strong>References:</strong> Link to official documentation for your database technology.</li>
             </ul>

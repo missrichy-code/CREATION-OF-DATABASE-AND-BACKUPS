@@ -72,23 +72,6 @@
                     <img width="922" height="383" alt="backup7" src="https://github.com/user-attachments/assets/32b340eb-ad4e-466b-8bfc-7e7cc5143592" />
                     Next Data source (edit) choose the storage account you want to backup
                     <img width="879" height="410" alt="backup8" src="https://github.com/user-attachments/assets/f4619da3-ea81-465d-876a-09f43b2ed4ee" />
-
-                    
-
-
-
-
-
-                    
-
-# Example for SQL Server
-BACKUP DATABASE MyDatabase TO DISK = 'D:\Backups\MyDatabase.bak';
-                    </pre>
-                </li>
-                <li><strong>Restore Steps:</strong> (Optional) Add instructions to restore from a backup.
-                    <pre>
-# Example for SQL Server
-RESTORE DATABASE MyDatabase FROM DISK = 'D:\Backups\MyDatabase.bak';
                     </pre>
                 </li>
                 <li><strong>Troubleshooting:</strong> Add common issues and solutions.</li>

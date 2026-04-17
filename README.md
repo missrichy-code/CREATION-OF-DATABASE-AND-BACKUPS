@@ -13,7 +13,7 @@
                       <img width="700" height="377" alt="db3" src="https://github.com/user-attachments/assets/c7249853-d3b5-415a-a7bf-fd43b01d3df0" />
                       Go to the next step thats Networking, then select private endpoint in connectivity method
                       <img width="622" height="389" alt="db5" src="https://github.com/user-attachments/assets/a61309b2-a0fd-4975-aca0-dc7889fae42e" />
-                      Next step is to create a private endpoint and also a virtual network next
+         Next step is to create a private endpoint and also a virtual network next
                       <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/3a840be5-9178-49f6-9774-968d9802dd
                      <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/fea56eff-93f8-49b4-a16d-547ae7255e45" />
          TO use free service so you dont incure cost create your virtual network from cost management+Biling and this are few steps on how to go about it

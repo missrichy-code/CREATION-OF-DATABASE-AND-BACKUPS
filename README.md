@@ -9,9 +9,9 @@
           <li><strong>Database Creation Steps:</strong> 
           <pre>    Create an Azure SQL account, then give the database a name
                       <img width="839" height="326" alt="db2" src="https://github.com/user-attachments/assets/a990f3a1-b8c3-4167-8ced-ee5f1b217075" />
-                      Select Microsoft entra only
+          Select Microsoft entra only
                       <img width="700" height="377" alt="db3" src="https://github.com/user-attachments/assets/c7249853-d3b5-415a-a7bf-fd43b01d3df0" />
-                      Go to the next step thats Networking, then select private endpoint in connectivity method
+          Go to the next step thats Networking, then select private endpoint in connectivity method
                       <img width="622" height="389" alt="db5" src="https://github.com/user-attachments/assets/a61309b2-a0fd-4975-aca0-dc7889fae42e" />
          Next step is to create a private endpoint and also a virtual network next
                       <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/3a840be5-9178-49f6-9774-968d9802dd

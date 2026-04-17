@@ -15,11 +15,11 @@
                       <img width="622" height="389" alt="db5" src="https://github.com/user-attachments/assets/a61309b2-a0fd-4975-aca0-dc7889fae42e" />
                       Next step is to create a private endpoint and also a virtual network next
                       <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/3a840be5-9178-49f6-9774-968d9802dd
-                      <img width="584" height="254" alt="db6" src="https://github.com/user-attachments/assets/43655a87-aa0c-40bc-8843-526235715ead" />
-                  TO use free service so you dont incure cost create your virtual network from cost management+Biling and this are few steps on how to go about it
+                     <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/fea56eff-93f8-49b4-a16d-547ae7255e45" />
+         TO use free service so you dont incure cost create your virtual network from cost management+Biling and this are few steps on how to go about it
          Go to Biling (benefits and then preview)
-          Go to Virtual Network (50) and create
-           Next step is SECURITY
+         Go to Virtual Network (50) and create
+         Next step is SECURITY
          Enable DDOS protection to prevent attack
                       <img width="680" height="368" alt="db7" src="https://github.com/user-attachments/assets/3e2b13fa-69f4-4749-87ad-973a23d9530f" />
                       Then enable Virtual Encryption

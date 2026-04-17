@@ -6,8 +6,8 @@
                  ii)Enable Transparent Data Encryption(TDE)
                  iii)Use Azure backups (5GB) and manual snapshots for site recovery.</li>
                 <li><strong>Requirements:</strong> Requirements are database server access, credentials, and other necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
-                <li><strong>Database Creation Steps:</strong> 
-                    <pre>    Create an Azure SQL account, then give the database a name
+          <li><strong>Database Creation Steps:</strong> 
+          <pre>    Create an Azure SQL account, then give the database a name
                       <img width="839" height="326" alt="db2" src="https://github.com/user-attachments/assets/a990f3a1-b8c3-4167-8ced-ee5f1b217075" />
                       Select Microsoft entra only
                       <img width="700" height="377" alt="db3" src="https://github.com/user-attachments/assets/c7249853-d3b5-415a-a7bf-fd43b01d3df0" />
@@ -16,11 +16,11 @@
                       Next step is to create a private endpoint and also a virtual network next
                       <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/3a840be5-9178-49f6-9774-968d9802dd
                       <img width="584" height="254" alt="db6" src="https://github.com/user-attachments/assets/43655a87-aa0c-40bc-8843-526235715ead" />
-                      TO use free service so you dont incure cost create your virtual network from cost management+Biling and this are few steps on how to go about it
-                      Go to Biling (benefits and then preview)
-                      Go to Virtual Network (50) and create
-                      Next step is SECURITY
-                      Enable DDOS protection to prevent attack
+          TO use free service so you dont incure cost create your virtual network from cost management+Biling and this are few steps on how to go about it
+          Go to Biling (benefits and then preview)
+          Go to Virtual Network (50) and create
+           Next step is SECURITY
+         Enable DDOS protection to prevent attack
                       <img width="680" height="368" alt="db7" src="https://github.com/user-attachments/assets/3e2b13fa-69f4-4749-87ad-973a23d9530f" />
                       Then enable Virtual Encryption
                       Next is IP Address

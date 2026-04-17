@@ -1,12 +1,26 @@
 # CREATION OF DATABASE AND BACKUPS<!DOCTYPE html>
 
-<li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its    
-                PURPOSE IN MY PROJECT IS   
-  
-  1.To create Azure SQL Database  
-  2.To Enable Transparent Data Encryption(TDE)   3.Using Azure backups (5GB) and manual snapshots for site recovery.</li>
-                <li><strong>Requirements:</strong> Requirements are database server access, credentials, and other necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
-          <li><strong>Database Creation Steps:</strong> 
+<li><strong>Overview:</strong>A database is an organized collection of data that can be easily accessed, managed, and updated (e.g., SQL Server, MySQL, PostgreSQL).
+
+### Project Objectives
+This project focuses on:
+1. Creating an Azure SQL Database
+2. Enabling Transparent Data Encryption (TDE)
+3. Configuring Azure automated backups (5GB)
+4. Creating manual snapshots for site recovery
+
+---
+
+## Requirements
+To complete this project, ensure you have the following:
+
+- Azure account with an active subscription
+- Database server access and credentials
+- Required tools:
+- Azure CLI
+- SQL Server Management Studio (SSMS)
+
+   <li><strong>Database Creation Steps:</strong> 
           <pre>    Create an Azure SQL account, then give the database a name
                       <img width="839" height="326" alt="db2" src="https://github.com/user-attachments/assets/a990f3a1-b8c3-4167-8ced-ee5f1b217075" />
           Select Microsoft entra only

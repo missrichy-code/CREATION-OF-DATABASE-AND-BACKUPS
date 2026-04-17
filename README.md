@@ -22,16 +22,16 @@
          Next step is SECURITY
          Enable DDOS protection to prevent attack
                       <img width="680" height="368" alt="db7" src="https://github.com/user-attachments/assets/3e2b13fa-69f4-4749-87ad-973a23d9530f" />
-                      Then enable Virtual Encryption
-                      Next is IP Address
-                      Go to Add Subnets, Defualt and edit in the right corner
+         Then enable Virtual Encryption
+         Next is IP Address
+         Go to Add Subnets, Defualt and edit in the right corner
                       <img width="935" height="380" alt="db8" src="https://github.com/user-attachments/assets/07a76e2b-1e1d-47fa-9dd2-bef0c16f76f8" />
-                      Then review and create
-                      NB: Creating a Virtual Network prevents access from public endpoint. it can only be accessed within the organization (private endpoint)
-                      Go back to SQL Database
-                      Input the VN in Private Endpoint, then create
+         Then review and create
+         NB: Creating a Virtual Network prevents access from public endpoint. it can only be accessed within the organization (private endpoint)
+         Go back to SQL Database
+         Input the VN in Private Endpoint, then create
                       <img width="943" height="394" alt="db10" src="https://github.com/user-attachments/assets/0efdc323-6fc2-4235-8e6a-5d8b91c715c8" />
-                      Go to the Database created, Go to security, then Data Encryption, confirm if its on and encrypted
+         Go to the Database created, Go to security, then Data Encryption, confirm if its on and encrypted
                       <img width="691" height="389" alt="db last" src="https://github.com/user-attachments/assets/660ed0f9-123a-49be-8038-3bd73a0b8178" />
                       
 

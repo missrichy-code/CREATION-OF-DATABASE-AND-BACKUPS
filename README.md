@@ -88,13 +88,64 @@ To complete this project, ensure you have the following:
                     </pre>
                 </li>
                 <li><strong>Troubleshooting:</strong> .</li>
-                Common issues includes,
-              .  1.  Insufficient storage space- Ensure you check availability of disc space using OS tools
-              .  2.  Downtime- Use hot backup tools or non blocking options also schedule backups during low traffic hours 
-              .  3. Corrupted backup files- Always verify backups after creation also avoid interruption during backup(ensure stable network and power)
-              .  4. Encryption and Security issues- Backups stored without encryption can expose sensitive data so encrypt backups at rest ans also secure backup transfers
-              .  5. Failed schedule backups- Log backup results and send alert on failure also regularly review task scheduler log
-           
+               Common issues and how to resolve them:
+
+1. Insufficient Storage Space
+Issue: Database or backup operations fail due to low disk space
+
+Solution:
+
+Check available storage using OS or Azure monitoring tools
+
+Increase storage capacity if needed
+
+Clean up unused files or old backups
+
+2. Downtime During Backups
+Issue: Backups affect system performance or availability
+
+Solution:
+
+Use non-blocking or online backup options
+
+Schedule backups during low-traffic periods
+
+Monitor system load during backup operations
+
+3. Corrupted Backup Files
+Issue: Backup files cannot be restored or are invalid
+
+Solution:
+
+Always verify backups after creation
+
+Avoid interruptions during backup (ensure stable power and network)
+
+Perform periodic test restores
+
+4. Encryption and Security Issues
+Issue: Sensitive data exposed due to lack of encryption
+
+Solution:
+
+Enable encryption at rest (e.g., TDE)
+
+Secure backup transfers (use HTTPS or secure channels)
+
+Restrict access to backup storage
+
+5. Failed Scheduled Backups
+Issue: Automated backups do not run as expected
+
+Solution:
+
+Check task scheduler or Azure backup logs
+
+Configure alerts for backup failures
+
+Regularly review and test backup schedules
+
+
 
   <li><strong>References:</strong> Link to official documentation for your database technology.</li>
             </ul>

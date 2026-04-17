@@ -147,24 +147,8 @@ Regularly review and test backup schedules
 
 
 
-  <li><strong>References:</strong> Link to official documentation for your database technology.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Commit and Push:</strong>
-            <ul>
-                <li>Commit your documentation file and push it to your GitHub repository.</li>
-            </ul>
-        </li>
-        <li>
-            <strong>Keep Documentation Updated:</strong>
-            <ul>
-                <li>Update the documentation as your database setup or backup process changes.</li>
-            </ul>
-        </li>
-    </ol>
-    <p>
-        For more details, see the official documentation for your database technology (e.g., 
+
+ For more details, see the official documentation for your database technology (e.g., 
         <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">SQL Server Docs</a>, 
         <a href="https://dev.mysql.com/doc/" target="_blank">MySQL Docs</a>, 
         <a href="https://www.postgresql.org/docs/" target="_blank">PostgreSQL Docs</a>).

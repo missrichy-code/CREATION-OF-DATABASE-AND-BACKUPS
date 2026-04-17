@@ -1,8 +1,9 @@
 # CREATION OF DATABASE AND BACKUPS<!DOCTYPE html>
 
 <li><strong>Overview:</strong> A Database ia an organized collection of data that can be easily accessed, managed and updated(e.g., SQL Server, MySQL, PostgreSQL) and its    
-                PURPOSE IN MY PROJECT IS
-                 1.To create Azure SQL Database  
+                PURPOSE IN MY PROJECT IS   
+  
+  1.To create Azure SQL Database  
                  2.To Enable Transparent Data Encryption(TDE)
                  3.Using Azure backups (5GB) and manual snapshots for site recovery.</li>
                 <li><strong>Requirements:</strong> Requirements are database server access, credentials, and other necessary tools (e.g., Azure CLI, SQL Management Studio).</li>

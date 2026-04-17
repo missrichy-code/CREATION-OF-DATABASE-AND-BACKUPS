@@ -5,7 +5,7 @@
   
   1.To create Azure SQL Database  
   2.To Enable Transparent Data Encryption(TDE)
-  3.Using Azure backups (5GB) and manual snapshots for site recovery.</li>
+               3.Using Azure backups (5GB) and manual snapshots for site recovery.</li>
                 <li><strong>Requirements:</strong> Requirements are database server access, credentials, and other necessary tools (e.g., Azure CLI, SQL Management Studio).</li>
           <li><strong>Database Creation Steps:</strong> 
           <pre>    Create an Azure SQL account, then give the database a name
